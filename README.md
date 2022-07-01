@@ -1,4 +1,4 @@
-![Code Grade](https://www.codefactor.io/repository/github/dsevvv/chargetable/badge)
+
 
 <!--
 **dsevvv/dsevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
