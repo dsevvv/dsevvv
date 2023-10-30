@@ -3,8 +3,11 @@
 My name is Devon Sevrens, I am a software developer with a knack for Java. I have worked with Python, C, Javascript, and Java.
 
 🤔 I’m currently seeking full-time employment
+
 💬 Ask me about my experience developing mods for Minecraft proffesionally
+
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/devon-sevrens-372751232/)
+
 
 
 
